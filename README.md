@@ -87,11 +87,9 @@ We found that the **Swin Transformer** is the best model for detecting explosive
 ## Repository Structure
 ```text
 .
-├── data/                # Dataset files
+├── dataset/            # Links to Dataset files
 ├── notebooks/          # Training / experiment notebooks
-├── models/             # Saved model checkpoints
-├── src/                # Training and inference scripts
-├── results/            # Evaluation outputs and figures
+├── models/             # Links to Saved model checkpoints
 └── README.md
 ```
 
