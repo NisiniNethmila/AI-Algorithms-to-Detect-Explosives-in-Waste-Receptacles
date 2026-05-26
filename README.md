@@ -94,7 +94,7 @@ We found that the **Swin Transformer** is the best model for detecting explosive
 ```
 
 ## Report
-[View](Group2_Report_Ass2.docx)
+[View](Group2_Report_Ass2.pdf)
 
 ## Requirements
 Typical Python dependencies for this project include:
