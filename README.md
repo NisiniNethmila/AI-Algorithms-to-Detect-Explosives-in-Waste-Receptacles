@@ -1,4 +1,4 @@
-# Development-of-AI-Algorithms-to-Detect-Explosives-in-Waste-Receptacles
+# AI-Algorithms-to-Detect-Explosives-in-Waste-Receptacles
 Development of AI Algorithms to Detect Explosives in Waste Receptacles Using Vision Transformers and Swin Transformers
 
 ## Overview
